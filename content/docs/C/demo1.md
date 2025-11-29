@@ -1,5 +1,5 @@
 ---
-title: 1. demo案例1
+title: demo案例1
 type: docs
 ---
 ![bg](../../../dominik-mayer-1.jpg)
